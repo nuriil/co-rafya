@@ -1,2 +1,2 @@
 buzul alanları oluşturma (sayfa 90 uygulama)
-belirli olaylar ile kontrol etme
+belirli olaylar ile kontrol etme (basıç ayarla, sıçaklık ayarla)
